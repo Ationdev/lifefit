@@ -1,2 +1,2 @@
 
-Copyright (C) 2024 Diego Prates
+Copyright (C) 2024 Ation Development
